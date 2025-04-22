@@ -5,7 +5,7 @@ This project demonstrates a lightweight document scanner built with OpenCV in C+
 
 ![resultimages1](https://github.com/user-attachments/assets/0db648f0-c485-4450-a1e0-9620bf83dca4)
 
-To transform the input into a clean, top-down view of the document, the algorithm follows these key steps (the complete code can be found in the ```doc_scanner.cpp ``` file):
+To transform the input into a clean, top-down view of the document, the algorithm follows these key steps (the complete code can be found in the ```doc_scanner.cpp``` file):
 
 - Loads and resizes a scanned image.
   ```
